@@ -25,9 +25,9 @@ app.get('/', (req, res) => {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>The News Api's</title>
+<title>NOOBS API</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link href="https://i.imgur.com/38RT99Z.jpg" rel="icon" />
+<link href="https://i.ibb.co/n0zjdNY/d57e1856b18d.jpg" rel="icon" />
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 
