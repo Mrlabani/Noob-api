@@ -77,8 +77,7 @@ body {
 <h1>Welcome</h1>
 <p>Your one-stop solution to access the latest news, search for torrents, get insights from Genius, fetch data from Newscatcher, and more.</p>
 <h3>Base URL</h3>
-<p>https://news-api-six-navy.vercel.app</p>
-<p>https://news-api-czsp.onrender.com</p>
+<p>https://noob-apix.vercel.app</p>
 <div class="separator"></div>
 <h6>API Endpoints</h6>
 
